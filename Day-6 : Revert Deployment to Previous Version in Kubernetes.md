@@ -1,4 +1,4 @@
-# Day-6 Kubernetes Deployment Rollback Guide
+# Day-6 Revert Deployment to Previous Version in Kubernetes
 
 ## 📌 Scenario
 Earlier today, the Nautilus DevOps team deployed a new release for an application. A customer has reported a bug in this release, so the team needs to revert to the previous stable version.
